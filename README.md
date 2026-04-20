@@ -1,5 +1,11 @@
 # DeepThought — AI Content Creator Assignment
 ### Newsletter: *The Circus Tent That Built America's Future*
+---
+## Note on Format
+
+The full submission (newsletter, research trail, and process note) is provided in the PDF.
+
+This README includes the same work in a readable, version-controlled format.
 
 ---
 
